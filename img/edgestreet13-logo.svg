@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="411pt"
+   viewBox="-34 0 411 411.41248"
+   width="411pt"
+   version="1.1"
+   id="svg9915"
+   sodipodi:docname="edgestreet13-logo.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata9921">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs9919" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="716"
+     id="namedview9917"
+     showgrid="false"
+     inkscape:zoom="0.70658258"
+     inkscape:cx="134.98119"
+     inkscape:cy="171.54538"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg9915" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:120.93095398px;line-height:125%;font-family:aakar;-inkscape-font-specification:aakar;letter-spacing:0px;word-spacing:0px;fill:#193852;fill-opacity:1;stroke:none;stroke-width:3.02327394px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="-396.03625"
+     y="46.764816"
+     id="text10087"
+     transform="rotate(-90)"><tspan
+       sodipodi:role="line"
+       id="tspan10085"
+       x="-396.03625"
+       y="46.764816"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono';fill:#193852;fill-opacity:1;stroke-width:3.02327394px">Edge</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:111.5446701px;line-height:125%;font-family:aakar;-inkscape-font-specification:aakar;letter-spacing:0px;word-spacing:0px;fill:#193852;fill-opacity:1;stroke:none;stroke-width:2.78861666px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="-16.297848"
+     y="95.215652"
+     id="text10091"><tspan
+       sodipodi:role="line"
+       id="tspan10089"
+       x="-16.297848"
+       y="95.215652"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono';fill:#193852;fill-opacity:1;stroke-width:2.78861666px">Street</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:321.40133667px;line-height:125%;font-family:aakar;-inkscape-font-specification:aakar;letter-spacing:0px;word-spacing:0px;fill:#26547c;fill-opacity:1;stroke:none;stroke-width:8.03503227px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="73.716522"
+     y="379.01157"
+     id="text10095"
+     transform="scale(0.97322114,1.0275157)"><tspan
+       sodipodi:role="line"
+       id="tspan10093"
+       x="73.716522"
+       y="379.01157"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact;letter-spacing:19.28825569px;fill:#26547c;fill-opacity:1;stroke-width:8.03503227px">13</tspan></text>
+</svg>
