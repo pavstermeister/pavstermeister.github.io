@@ -22,12 +22,55 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs9919" />
+     id="defs9919">
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="532.87399"
+       height="484.35988"
+       patternTransform="matrix(0.7507527,0,0,0.7507527,-26.27748,30.965922)"
+       id="pattern908">
+      <text
+         transform="rotate(-90)"
+         id="text10087"
+         y="97.292084"
+         x="-486.27243"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:161.0796051px;line-height:125%;font-family:aakar;-inkscape-font-specification:aakar;letter-spacing:0px;word-spacing:0px;fill:#193852;fill-opacity:1;stroke:none;stroke-width:4.02699041px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono';fill:#193852;fill-opacity:1;stroke-width:4.02699041px"
+           y="97.292084"
+           x="-486.27243"
+           id="tspan10085"
+           sodipodi:role="line">Edge</tspan></text>
+      <text
+         id="text10091"
+         y="85.580421"
+         x="13.292835"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:148.57711792px;line-height:125%;font-family:aakar;-inkscape-font-specification:aakar;letter-spacing:0px;word-spacing:0px;fill:#193852;fill-opacity:1;stroke:none;stroke-width:3.71442771px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono';fill:#193852;fill-opacity:1;stroke-width:3.71442771px"
+           y="85.580421"
+           x="13.292835"
+           id="tspan10089"
+           sodipodi:role="line">Street</tspan></text>
+      <text
+         transform="scale(0.97322114,1.0275157)"
+         id="text10095"
+         y="464.70013"
+         x="134.15475"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:428.10546875px;line-height:125%;font-family:aakar;-inkscape-font-specification:aakar;letter-spacing:0px;word-spacing:0px;fill:#26547c;fill-opacity:1;stroke:none;stroke-width:10.70263481px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact;letter-spacing:25.69189072px;fill:#26547c;fill-opacity:1;stroke-width:10.70263481px"
+           y="464.70013"
+           x="134.15475"
+           id="tspan10093"
+           sodipodi:role="line">13</tspan></text>
+    </pattern>
+  </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -41,46 +84,18 @@
      inkscape:window-height="716"
      id="namedview9917"
      showgrid="false"
-     inkscape:zoom="0.70658258"
-     inkscape:cx="134.98119"
-     inkscape:cy="171.54538"
+     inkscape:zoom="0.4098731"
+     inkscape:cx="200.60714"
+     inkscape:cy="35.900176"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg9915" />
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:120.93095398px;line-height:125%;font-family:aakar;-inkscape-font-specification:aakar;letter-spacing:0px;word-spacing:0px;fill:#193852;fill-opacity:1;stroke:none;stroke-width:3.02327394px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="-396.03625"
-     y="46.764816"
-     id="text10087"
-     transform="rotate(-90)"><tspan
-       sodipodi:role="line"
-       id="tspan10085"
-       x="-396.03625"
-       y="46.764816"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono';fill:#193852;fill-opacity:1;stroke-width:3.02327394px">Edge</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:111.5446701px;line-height:125%;font-family:aakar;-inkscape-font-specification:aakar;letter-spacing:0px;word-spacing:0px;fill:#193852;fill-opacity:1;stroke:none;stroke-width:2.78861666px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="-16.297848"
-     y="95.215652"
-     id="text10091"><tspan
-       sodipodi:role="line"
-       id="tspan10089"
-       x="-16.297848"
-       y="95.215652"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono';fill:#193852;fill-opacity:1;stroke-width:2.78861666px">Street</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:321.40133667px;line-height:125%;font-family:aakar;-inkscape-font-specification:aakar;letter-spacing:0px;word-spacing:0px;fill:#26547c;fill-opacity:1;stroke:none;stroke-width:8.03503227px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="73.716522"
-     y="379.01157"
-     id="text10095"
-     transform="scale(0.97322114,1.0275157)"><tspan
-       sodipodi:role="line"
-       id="tspan10093"
-       x="73.716522"
-       y="379.01157"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact;letter-spacing:19.28825569px;fill:#26547c;fill-opacity:1;stroke-width:8.03503227px">13</tspan></text>
+  <rect
+     style="stroke:none;fill:url(#pattern908)"
+     width="400.05659"
+     height="363.63449"
+     x="-26.27748"
+     y="30.965922"
+     id="rect916" />
 </svg>
