@@ -36,7 +36,7 @@ $light:         $gray-100 !default; */
   --breakpoint-md: 768px;
   --breakpoint-lg: 992px;
   --breakpoint-xl: 1200px;
-  --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Cabin", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
 
 *,
@@ -55,11 +55,11 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Cabin", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #212529;
+  color: #03191e;
   text-align: left;
   background-color: #fff; }
 
@@ -1147,7 +1147,7 @@ pre {
 .table {
   width: 100%;
   margin-bottom: 1rem;
-  color: #212529; }
+  color: #03191e; }
   .table th,
   .table td {
     padding: 0.75rem;
@@ -1182,7 +1182,7 @@ pre {
   background-color: rgba(0, 0, 0, 0.05); }
 
 .table-hover tbody tr:hover {
-  color: #212529;
+  color: #03191e;
   background-color: rgba(0, 0, 0, 0.075); }
 
 .table-primary,
@@ -1472,7 +1472,7 @@ select.form-control:focus::-ms-value {
   margin-bottom: 0;
   font-size: 1rem;
   line-height: 1.5;
-  color: #212529;
+  color: #03191e;
   background-color: transparent;
   border: solid transparent;
   border-width: 1px 0; }
@@ -1752,7 +1752,7 @@ textarea.form-control {
 .btn {
   display: inline-block;
   font-weight: 400;
-  color: #212529;
+  color: #03191e;
   text-align: center;
   vertical-align: middle;
   cursor: pointer;
@@ -1768,7 +1768,7 @@ textarea.form-control {
     .btn {
       transition: none; } }
   .btn:hover {
-    color: #212529;
+    color: #03191e;
     text-decoration: none; }
   .btn:focus, .btn.focus {
     outline: 0;
@@ -2244,7 +2244,7 @@ input[type="button"].btn-block {
   padding: 0.5rem 0;
   margin: 0.125rem 0 0;
   font-size: 1rem;
-  color: #212529;
+  color: #03191e;
   text-align: left;
   list-style: none;
   background-color: #fff;
@@ -3839,7 +3839,7 @@ input[type="button"].btn-block {
     text-decoration: none;
     background-color: #f8f9fa; }
   .list-group-item-action:active {
-    color: #212529;
+    color: #03191e;
     background-color: #e9ecef; }
 
 .list-group-item {
@@ -4268,7 +4268,7 @@ a.close.disabled {
   z-index: 1070;
   display: block;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Cabin", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-style: normal;
   font-weight: 400;
   line-height: 1.5;
@@ -4353,7 +4353,7 @@ a.close.disabled {
   z-index: 1060;
   display: block;
   max-width: 276px;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Cabin", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-style: normal;
   font-weight: 400;
   line-height: 1.5;
@@ -4466,7 +4466,7 @@ a.close.disabled {
 
 .popover-body {
   padding: 0.5rem 0.75rem;
-  color: #212529; }
+  color: #03191e; }
 
 .carousel {
   position: relative; }
@@ -7051,7 +7051,7 @@ a.text-dark:hover, a.text-dark:focus {
   color: #071017 !important; }
 
 .text-body {
-  color: #212529 !important; }
+  color: #03191e !important; }
 
 .text-muted {
   color: #6c757d !important; }
@@ -7207,3 +7207,83 @@ a.text-dark:hover, a.text-dark:focus {
   background-image: linear-gradient(to bottom left, #387cb7, #142c41); }
   .hero-section .hero-lead-block {
     padding-top: 45px; }
+
+#dev-process {
+  /*     .dev-promo {
+        position: relative;
+        //overflow: hidden;
+        // margin-bottom:10px;
+        //box-shadow:0px 2px 3px #222;
+        //top:150px;
+        
+            img {
+                border-top-left-radius: calc(0.25rem - 1px);
+                border-top-right-radius: calc(0.25rem - 1px);
+                flex-shrink: 0;
+                width: 100%;
+                height: auto;
+                vertical-align: middle;
+                border-style: none;
+            }
+    } */
+  /*     h4 {
+        min-height: 58px;
+        margin-left: 15px;
+        margin-right: 15px;
+    } */ }
+  #dev-process .dev-card-set {
+    text-align: center; }
+  #dev-process .dev-promo-ideation {
+    border: 1px solid #6c757d;
+    border-top-left-radius: calc(0.25rem - 1px);
+    border-top-right-radius: calc(0.25rem - 1px);
+    border-bottom-left-radius: calc(0.25rem - 1px);
+    border-bottom-right-radius: calc(0.25rem - 1px); }
+    #dev-process .dev-promo-ideation h4 {
+      font-family: "Bitter";
+      color: #6c757d;
+      margin: 50px 25px 50px 25px; }
+    #dev-process .dev-promo-ideation figure {
+      font-family: "Bitter";
+      margin: 50px 25px 50px 25px; }
+      #dev-process .dev-promo-ideation figure blockquote {
+        font-size: 1.6em; }
+      #dev-process .dev-promo-ideation figure figcaption {
+        text-align: right;
+        font-size: 0.8em; }
+  #dev-process .dev-promo-mvp {
+    border: 2px solid #26547c;
+    border-top-left-radius: calc(0.25rem - 1px);
+    border-top-right-radius: calc(0.25rem - 1px);
+    border-bottom-left-radius: calc(0.25rem - 1px);
+    border-bottom-right-radius: calc(0.25rem - 1px);
+    background-size: 100% 100%; }
+    #dev-process .dev-promo-mvp h4 {
+      font-family: "Bitter";
+      color: #26547c;
+      margin: 50px 25px 50px 25px; }
+  #dev-process .dev-promo-final {
+    border: 1px solid #26547c;
+    border-top-left-radius: calc(0.25rem - 1px);
+    border-top-right-radius: calc(0.25rem - 1px);
+    border-bottom-left-radius: calc(0.25rem - 1px);
+    border-bottom-right-radius: calc(0.25rem - 1px);
+    background: linear-gradient(-45deg, #26547c, #193852, #23a6d5, #03191e);
+    background-size: 400% 400%;
+    animation: gradient 15s ease infinite; }
+
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%; }
+  50% {
+    background-position: 100% 50%; }
+  100% {
+    background-position: 0% 50%; } }
+    #dev-process .dev-promo-final h4 {
+      font-family: "Bitter";
+      color: #fffcf9;
+      margin: 50px 25px 50px 25px; }
+  #dev-process .stage-ideation {
+    font-size: 1.3em; }
+  #dev-process .stage-mvp {
+    font-size: 1em; }
