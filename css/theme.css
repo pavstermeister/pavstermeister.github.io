@@ -7233,6 +7233,12 @@ a.text-dark:hover, a.text-dark:focus {
     } */ }
   #dev-process .dev-card-set {
     text-align: center; }
+    #dev-process .dev-card-set img {
+      margin-top: 25px;
+      margin-bottom: 25px; }
+    #dev-process .dev-card-set h4 {
+      margin: 15px 25px 50px 25px;
+      font-family: "Bitter"; }
   #dev-process .dev-promo-ideation {
     border: 1px solid #6c757d;
     border-top-left-radius: calc(0.25rem - 1px);
@@ -7240,17 +7246,7 @@ a.text-dark:hover, a.text-dark:focus {
     border-bottom-left-radius: calc(0.25rem - 1px);
     border-bottom-right-radius: calc(0.25rem - 1px); }
     #dev-process .dev-promo-ideation h4 {
-      font-family: "Bitter";
-      color: #6c757d;
-      margin: 50px 25px 50px 25px; }
-    #dev-process .dev-promo-ideation figure {
-      font-family: "Bitter";
-      margin: 50px 25px 50px 25px; }
-      #dev-process .dev-promo-ideation figure blockquote {
-        font-size: 1.6em; }
-      #dev-process .dev-promo-ideation figure figcaption {
-        text-align: right;
-        font-size: 0.8em; }
+      color: #6c757d; }
   #dev-process .dev-promo-mvp {
     border: 2px solid #26547c;
     border-top-left-radius: calc(0.25rem - 1px);
@@ -7259,9 +7255,7 @@ a.text-dark:hover, a.text-dark:focus {
     border-bottom-right-radius: calc(0.25rem - 1px);
     background-size: 100% 100%; }
     #dev-process .dev-promo-mvp h4 {
-      font-family: "Bitter";
-      color: #26547c;
-      margin: 50px 25px 50px 25px; }
+      color: #26547c; }
   #dev-process .dev-promo-final {
     border: 1px solid #26547c;
     border-top-left-radius: calc(0.25rem - 1px);
@@ -7280,9 +7274,7 @@ a.text-dark:hover, a.text-dark:focus {
   100% {
     background-position: 0% 50%; } }
     #dev-process .dev-promo-final h4 {
-      font-family: "Bitter";
-      color: #fffcf9;
-      margin: 50px 25px 50px 25px; }
+      color: #fffcf9; }
   #dev-process .stage-ideation {
     font-size: 1.3em; }
   #dev-process .stage-mvp {
